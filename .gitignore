@@ -10,3 +10,13 @@ venv/
 # Docker
 *.log
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env
+.DS_Store
+# Docker
+*.log
